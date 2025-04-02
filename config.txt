@@ -1,0 +1,12 @@
+$dbGM['host'] = 'localhost';
+# add your database name
+$dbGM['name'] = 'wbgamedb';
+
+
+# add your database user name
+$dbGM['user'] = 'wbgamedb_admin';
+
+
+
+# add your database password
+$dbGM['pass'] = 'Admin123';
